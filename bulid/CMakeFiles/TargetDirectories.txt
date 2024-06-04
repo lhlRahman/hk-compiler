@@ -1,0 +1,3 @@
+/Users/habibrahman/Code/hk/bulid/CMakeFiles/HK.dir
+/Users/habibrahman/Code/hk/bulid/CMakeFiles/edit_cache.dir
+/Users/habibrahman/Code/hk/bulid/CMakeFiles/rebuild_cache.dir
